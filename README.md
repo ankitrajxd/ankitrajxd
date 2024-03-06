@@ -9,7 +9,7 @@ DevOps • Web Development
 Portfolio - <a href='https://ankitraj.vercel.app/' target='_blank'> Visit here</a>
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=tsnext,tailwind,prisma,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,tailwind,prisma,sass)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,ansible,python,gitlab)](https://skillicons.dev)
