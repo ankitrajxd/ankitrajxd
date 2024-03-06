@@ -1,9 +1,9 @@
 # Hey👋, It's Ankit here!
 
 DevOps • Web Development
-* From India
+* From India.
 * I love building web apps and make sure they run as expected.
-* I love watching Anime. Favs [here](https://ankitraj.vercel.app/anime)
+* Favs [here](https://ankitraj.vercel.app/anime)
   
 Portfolio - <a href='https://ankitraj.vercel.app/' target='_blank'> Visit here</a>
 ## Technologies
