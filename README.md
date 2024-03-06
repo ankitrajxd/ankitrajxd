@@ -12,4 +12,4 @@ Portfolio - <a href='https://ankitraj.vercel.app/' target='_blank'> Visit here</
 [![My Skills](https://skillicons.dev/icons?i=ts,next,tailwind,prisma,sass)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,ansible,python,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,jenkins,terraform,aws,ansible,python,gitlab)](https://skillicons.dev)
