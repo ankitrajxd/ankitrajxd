@@ -1,6 +1,6 @@
 # Hey👋, It's *Ankit* here!
 
-DevOps • Web Development
+Some facts about me - 
 * From India.
 * I love building web apps and make sure they run as expected.
 * Bling-Bang-Bang-Born🎵
