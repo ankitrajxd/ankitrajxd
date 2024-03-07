@@ -3,7 +3,7 @@
 DevOps • Web Development
 * From India.
 * I love building web apps and make sure they run as expected.
-* Minimilism is the key.
+* Bling-Bang-Bang-Born🎵
 * Favs [here](https://ankitraj.vercel.app/anime)
   
 Portfolio - <a href='https://ankitraj.vercel.app/' target='_blank'> Visit here</a>
